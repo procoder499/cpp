@@ -46,5 +46,6 @@ public:
 int main(){
     HashTable ht(10);
 
-    ht.insert(1, "A")
+    ht.insert(1, "A");
+    return 0;
 }
